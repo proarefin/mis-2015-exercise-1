@@ -1,8 +1,7 @@
 // MIS Exercise 1
-// Bauhaus Universitz Weimar hello
-// Arefin
-
+// Bauhaus
 package mmbuw.com.brokenproject;
+//All buges fixed
 
 import android.app.Activity;
 import android.content.Intent;
