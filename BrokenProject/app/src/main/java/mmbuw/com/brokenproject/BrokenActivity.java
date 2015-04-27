@@ -1,8 +1,9 @@
 // MIS Exercise 1
 // Bauhaus
 package mmbuw.com.brokenproject;
-//All buges fixed
-//before submitt
+//All bugs fixed
+//All are solved
+//push
 
 import android.app.Activity;
 import android.content.Intent;
