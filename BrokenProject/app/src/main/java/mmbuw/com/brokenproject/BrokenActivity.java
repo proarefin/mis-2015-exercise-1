@@ -2,8 +2,9 @@
 // Bauhaus
 package mmbuw.com.brokenproject;
 //All bugs fixed
-//All are solved
-//push
+//All are
+// solved
+
 
 import android.app.Activity;
 import android.content.Intent;
