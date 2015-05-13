@@ -20,13 +20,7 @@
     <bookmark url="file://$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/AnotherBrokenActivity.java" line="84" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffa3649e-cb34-45d6-97e1-8fbb71f596f2" name="Default" comment=" solved bugs">
-      <change type="DELETED" beforePath="C:\Users\HP\AndroidStudioProjects\mis-2015-exercise-1\BrokenProject\app\src\androidTest\java\mmbuw\com\brokenproject\ApplicationTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BrokenProject/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/BrokenProject/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/BrokenActivity.java" afterPath="$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/BrokenActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BrokenProject/app/src/main/res/layout/activity_another_broken.xml" afterPath="$PROJECT_DIR$/BrokenProject/app/src/main/res/layout/activity_another_broken.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BrokenProject/app/src/main/res/layout/activity_broken.xml" afterPath="$PROJECT_DIR$/BrokenProject/app/src/main/res/layout/activity_broken.xml" />
-    </list>
+    <list default="true" id="ffa3649e-cb34-45d6-97e1-8fbb71f596f2" name="Default" comment=" solved bugs" />
     <ignored path="mis-2015-exercise-1.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
