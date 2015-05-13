@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="mmbuw.com.brokenproject" >
+    package="mmbuw.com.brokenproject"   >
 
     <application
         android:allowBackup="true"
@@ -20,6 +20,9 @@
             android:name=".AnotherBrokenActivity"
             android:label="@string/title_activity_another_broken" >
         </activity>
+
+
     </application>
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>

@@ -17,11 +17,11 @@
         android:hint="Enter a URL!" />
 
     <Button
+        android:id="@+id/goUrl"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/edittext"
         android:layout_centerHorizontal="true"
-        android:onClick="brokenFunction"
         android:text="Press It!Don't Push" />
 
 </RelativeLayout>
