@@ -38,14 +38,13 @@ public class AnotherBrokenActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_another_broken);
 
-        txtURL = (TextView) findViewById(R.id.txtUrl);
-        htmlResponse = (TextView) findViewById(R.id.htmlResponse);
+        txtURL = (TextView) findViewById(R.id.txtUrl); //Url
+        htmlResponse = (TextView) findViewById(R.id.htmlResponse);//Response
         connect = (Button) findViewById(R.id.connect);
 
         Intent intent = getIntent();
         String message = intent.getStringExtra(BrokenActivity.EXTRA_MESSAGE);
-        //What happens here? What is this? It feels like this is wrong.
-        //Maybe the weird programmer who wrote this forgot to do something?
+
 
         Context context = getApplicationContext();
         CharSequence text = "Another : " + message;
