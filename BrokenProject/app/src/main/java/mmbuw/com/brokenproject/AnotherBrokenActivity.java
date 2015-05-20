@@ -55,9 +55,8 @@ public class AnotherBrokenActivity extends Activity {
         toast.show();
 
         if(message.matches("http://"))
-        {
             WebURL = message;
-        }
+
         WebURL = "http://" + message;
         txtURL.setText(WebURL.toString());
 

@@ -17,7 +17,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: mmbuw.com.brokenproject" />
   </component>
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/AnotherBrokenActivity.java" line="87" mnemonic="7" />
+    <bookmark url="file://$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/AnotherBrokenActivity.java" line="86" mnemonic="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffa3649e-cb34-45d6-97e1-8fbb71f596f2" name="Default" comment=" solved bugs">
@@ -48,8 +48,8 @@
       <file leaf-file-name="AnotherBrokenActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/AnotherBrokenActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60850114" vertical-offset="323" max-vertical-offset="2193">
-              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.60850114" vertical-offset="323" max-vertical-offset="2176">
+              <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -984,8 +984,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BrokenProject/app/src/main/java/mmbuw/com/brokenproject/AnotherBrokenActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60850114" vertical-offset="323" max-vertical-offset="2193">
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.60850114" vertical-offset="323" max-vertical-offset="2176">
+          <caret line="59" column="37" selection-start-line="59" selection-start-column="37" selection-end-line="59" selection-end-column="37" />
           <folding />
         </state>
       </provider>
